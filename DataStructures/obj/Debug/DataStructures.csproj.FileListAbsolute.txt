@@ -1,0 +1,6 @@
+c:\users\the scientist\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+c:\users\the scientist\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+c:\users\the scientist\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+c:\users\the scientist\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
+c:\users\the scientist\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+c:\users\the scientist\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
